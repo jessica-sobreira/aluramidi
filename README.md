@@ -6,4 +6,4 @@ Meu primeiro projeto utilizando JavaScript da Alura. Uma aplicação voltada par
 
 ## Acesso
 
-- Interaja com os da [Alura Midi](https://aluramidi-rust.vercel.app/).
+- Interaja com os toques musicais da [Alura Midi](https://aluramidi-rust.vercel.app/).
